@@ -2,7 +2,7 @@ package com.telstra.app;
 
 public class App{
     public String greetings(){
-        System.out.println("hi");
+        System.out.println("hello");
         return "good morning";
     }
     public static void main(String[] args){
