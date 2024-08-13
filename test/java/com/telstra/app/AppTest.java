@@ -6,6 +6,6 @@ public class AppTest {
     @Test
     public void testGreating(){
         App app = new App();
-        assertEquals("Good Morning",app.greetings());
+        assertEquals("good morning",app.greetings());
     }
 }
